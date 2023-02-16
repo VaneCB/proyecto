@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Indie+Flower&display=swap');
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Indie Flower', cursive;
+  }
+   
+  
+   body {
+    font-family: 'Cutive Mono', monospace;
+   }
+main {
+    margin-top: 3rem;
+}
+
+header img {
+    height: 2rem;
+}
+
+footer {
+    background-color: #e3f2fd;
+}
+
+footer a{
+    color: black;
+    text-decoration: none;
+}
+
